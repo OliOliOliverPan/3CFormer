@@ -1,3 +1,3 @@
 # 3Cformer
 
-GCN addtion to PatchTST for channel information propogation.
+Graph convolutional network (GCN) addtion to PatchTST for channel information propogation.
